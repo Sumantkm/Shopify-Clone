@@ -14,8 +14,8 @@
 - 15+ hours to complete this project. (Worth the time spent, Great learning!!!)
 ***
 ## Project screenshots(few) :
-![Project-17/Shopify clone](./Project-screenshots/1.PNG)
-![Project-17/Shopify clone](./Project-screenshots/2.PNG)
-![Project-17/Shopify clone](./Project-screenshots/3.PNG)
-![Project-17/Shopify clone](./Project-screenshots/4.PNG)
-![Project-17/Shopify clone](./Project-screenshots/5.PNG)
+![Project-17/Shopify clone](./Project-Screenshots/1.PNG)
+![Project-17/Shopify clone](./Project-Screenshots/2.PNG)
+![Project-17/Shopify clone](./Project-Screenshots/3.PNG)
+![Project-17/Shopify clone](./Project-Screenshots/4.PNG)
+![Project-17/Shopify clone](./Project-Screenshots/5.PNG)
